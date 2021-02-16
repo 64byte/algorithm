@@ -5,6 +5,12 @@ https://www.acmicpc.net/problem/16938
 
 조건에 따라 맞는 방법은 증가하면 된다.
 
+문제를 고르는 방법 수는 2^N
+
+고른 문제의 수가 K이면
+
+시간복잡도는 O(2^N * K)
+
 */
 #include <iostream>
 #include <utility>
