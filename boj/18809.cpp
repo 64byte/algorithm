@@ -1,5 +1,5 @@
 /*
-https://www.acmicpc.net/problem/18512
+https://www.acmicpc.net/problem/18809
 
 배양액을 뿌릴 수 있는 땅 e
 녹색 배양액 g
